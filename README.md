@@ -6,7 +6,6 @@ abandoner, loyal customer), explains the evidence, and recommends a site
 action — with a live simulator so you can add events and watch the
 classification update in real time.
 
-[Demo screenshots / video here]
 
 ## Why hybrid, not LLM-only or rules-only
 
